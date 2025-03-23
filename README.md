@@ -1,5 +1,7 @@
 <h1>Hola 👋, soy Adrián Carmona</h1>
-<p>Un programador en desarrollo</p>
+<p>🌱 Actualmente estoy estudiando en CPIFP Alan Turing en 2º Desarrollo de aplicaciones multiplataforma</p>
+<p>📫 Puede contactarme por mi correo adricarmonagalvez@gmail.com</p>
+<p>⚡ Como hobby me gusta los videojuegos, la informática, las motos y los deportes de motor</p>
 <h2>🚀 Lenguajes y herramientas que uso</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
