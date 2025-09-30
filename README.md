@@ -1,5 +1,5 @@
 <h1>Hola 👋, soy Adrián Carmona</h1>
-<p>🌱 Actualmente estoy estudiando en CPIFP Alan Turing en 2º Desarrollo de aplicaciones multiplataforma</p>
+<p>📋 Actualmente estoy buscando trabajo </p>
 <p>📫 Puede contactarme por mi correo adricarmonagalvez@gmail.com</p>
 <p>⚡ Como hobby me gusta los videojuegos, la informática, las motos y los deportes de motor</p>
 <h2>🚀 Lenguajes y herramientas que uso</h2>
